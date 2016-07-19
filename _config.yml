@@ -1,0 +1,14 @@
+layout_spectrum: 0.18042486300691962
+typography_spectrum: 0.09009967045858502
+color:
+  brandStrength: 0.3343104247469455
+  lightness: 0.5405103696975857
+  saturation: 0.24974772450514138
+  rhythmicContrast: 0.9717305735684931
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Agile Hacks
